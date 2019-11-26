@@ -1,8 +1,8 @@
 # AfricasTalking
 
++ This is an elixir library for making API calls to the africasTalking API.
 
 ## WIP
-+ This is an elixir library for making API calls to the africasTalking API.
 + Nothing is done yet just a skeleton project ryt now.
 + Ignore information after this, am yet to make it production worthy.
 
